@@ -1,0 +1,10 @@
+{
+  "name": "revisjon",
+  "version": "0.0.0",
+  "description": "http server that logs every request in detail, for use in development",
+  "author": "Justin Gorinsky <gorinsky@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
